@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\project\\\344\271\235\345\205\203\350\210\252\347\251\272\\cnnyzm-master\\0.99captcha.model-1400"
+all_model_checkpoint_paths: "E:\\project\\\344\271\235\345\205\203\350\210\252\347\251\272\\cnnyzm-master\\0.95captcha.model-1000"
+all_model_checkpoint_paths: "E:\\project\\\344\271\235\345\205\203\350\210\252\347\251\272\\cnnyzm-master\\0.96captcha.model-1100"
+all_model_checkpoint_paths: "E:\\project\\\344\271\235\345\205\203\350\210\252\347\251\272\\cnnyzm-master\\0.97captcha.model-1200"
+all_model_checkpoint_paths: "E:\\project\\\344\271\235\345\205\203\350\210\252\347\251\272\\cnnyzm-master\\0.98captcha.model-1300"
+all_model_checkpoint_paths: "E:\\project\\\344\271\235\345\205\203\350\210\252\347\251\272\\cnnyzm-master\\0.99captcha.model-1400"
