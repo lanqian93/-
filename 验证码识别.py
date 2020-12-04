@@ -156,6 +156,7 @@ def captcha2text(image_list, height=CAPTCHA_HEIGHT, width=CAPTCHA_WIDTH):
 
 
 if __name__ == '__main__':
+    tf.reset_default_graph()
     image_a = load_image("test.jpg")
     img_array = np.array(image_a)
     image = convert2gray(img_array)
